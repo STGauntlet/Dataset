@@ -1,4 +1,6 @@
 # Dataset
+
+## Data Set Information:
 The dataset consists of the training set and test set. The training set contains Lie algebra-based motion features collected from six participants (P1-P6). The test set is collected from 3 testers (T1-T3) and is used to verify the performance of our framework.
 
 The Lie algebra-based motion features was calculated by motion sensor data collected from a wearable glove at a sampling rate of 25Hz (file: Train_Lie algebra.csv, Test_Lie algebra.csv).  The file contains 43 columns:
@@ -8,8 +10,7 @@ The Lie algebra-based motion features was calculated by motion sensor data colle
 
 For each components, the motion feaures contain x aixs of displacement, y axis of displacement, z axis of displacement, real element of quaternion and three complex elements of quaternion.
 
-For Each Joint Attribute (Lie algebra-based motion features):
-
+## Attribute Information:
 **Displacement feature**
 
 X: continuous, time-series
