@@ -4,7 +4,7 @@ The dataset consists of the training set and test set. The training set contains
 The Lie algebra-based motion features was calculated by motion sensor data collected from a wearable glove at a sampling rate of 25Hz (file: Train_Lie algebra.csv, Test_Lie algebra.csv).  The file contains 43 columns:
 <table border="1">
 <tr>
-  <td align:center;>Index</td>
+  <td align:center;>**Index**</td>
   <td align:center;>1-7</td>
   <td align:center;>8-14</td>
   <td align:center;>15-21</td>
@@ -14,7 +14,7 @@ The Lie algebra-based motion features was calculated by motion sensor data colle
   <td align:center;>43</td>
 </tr>
 <tr>
-  <td align:center;>Attribute</td>
+  <td align:center;>**Attribute**</td>
   <td align:center;>The motion feaures of opisthenar</td>
   <td align:center;>The motion feaures of thumb</td>
   <td align:center;>The motion feaures of index finger</td>
