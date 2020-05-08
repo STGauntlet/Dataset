@@ -26,13 +26,21 @@ The Lie algebra-based motion features was calculated by motion sensor data colle
 </table>
 
 For Each Joint Attribute (Lie algebra-based motion features):
+
 **Displacement feature**
+
 X: continuous, time-series
+
 Y: continuous, time-series
+
 Z: continuous, time-series
+
 **Rotation feature**
+
 The real element of quaternion: continuous, time-series
+
 The three complex elements of quaternion: continuous, time-series
+
 **Label**: symbolic, 8 categories (1: S&B fingers, 2: Circling, 3: B wrist U&D, 4: B wrist L&R, 5: R forearm, 6: Throwing, 7: Drinking, 0: Null)
 
 
